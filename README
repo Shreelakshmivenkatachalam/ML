@@ -36,13 +36,13 @@ Place the kaggle.json file in the ~/.kaggle/ directory on Linux/Mac or %USERPROF
 
 Project Structure
 
-├── tomato_leaf_cnn_model.h5   # Trained CNN model file
-├── script.py                  # Training script
-├── README.md                  # This README file
-├── dataset/                   # Directory where the dataset will be downloaded
-│   ├── train/                 # Training data
-│   ├── val/                   # Validation data
-│   └── test/                  # Test data
+├── tomato_leaf_cnn_model.h5   
+├── script.py                  
+├── README.md                  
+├── dataset/                  
+│   ├── train/                 
+│   ├── val/                   
+│   └── test/                
 
 How to Run
 
